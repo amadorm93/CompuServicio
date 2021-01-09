@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CompuServicio</string>
+    <string name="tab_text_1">Clientes</string>
+    <string name="tab_text_2">Recibos</string>
+    <string name="stats">Estadisticas</string>
+    <string name="titulo">CompuServicio</string>
+    <string name="bienvenida">Bienvenido a CompuSerivcio</string>
+    <string name="opciones">Seleccione una opcion</string>
+    <string name="menu">Menu</string>
+    <string name="text1">Ingrese los datos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Dirreccion">Dirreccion</string>
+    <string name="Monto">Monto</string>
+    <string name="Fecha">Fecha de Ingreso</string>
+    <string name="Mes">Mes a pagar</string>
+    <string name="add">Agregar Usuario</string>
+    <string name="add2">Agregar Recibo</string>
+    <string name="num">Numero telefonico</string>
+    <string name="Activo">Usuario Activo</string>
+</resources>
